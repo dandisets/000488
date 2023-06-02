@@ -39,7 +39,7 @@ assetsSummary:
   - OpticalChannel
 citation: Lecoq, Jerome A.; Garrett, Marina; Choi, Hannah; Mazzucato, Luca; Wyrick,
   David (2023) Allen Institute Openscope - Differential encoding of temporal context
-  and expectation (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000488/draft
+  and expectation (Version 0.230602.2022) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000488/0.230602.2022
 contributor:
 - contactPoint: []
   identifier: https://ror.org/03cpe7c52
@@ -146,12 +146,13 @@ description: "This dataset was collected for the Predictive Coding project, as p
   study of this dataset. \n\nResults are provided in the form of normalized calcium
   traces (dF/F) for all recorded neurons, along with running speed, pupil measurements,
   and the timing of all stimulus events. "
+doi: 10.48324/dandi.000488/0.230602.2022
 ethicsApproval:
 - contactPoint:
     schemaKey: ContactPoint
   identifier: Allen Institute institutional Animal Care and Use Committee
   schemaKey: EthicsApproval
-id: DANDI:000488/draft
+id: DANDI:000488/0.230602.2022
 identifier: DANDI:000488
 keywords:
 - neocortex
@@ -163,7 +164,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000488/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000488/0.230602.2022/assets.yaml
 name: Allen Institute Openscope - Differential encoding of temporal context and expectation
 protocol:
 - https://doi.org/10.1038/s41593-019-0550-9
@@ -195,6 +196,6 @@ studyTarget:
   back to lower areas to minimize activity associated with expected stimuli. This
   dataset allows testing of these predictions in 3 hierarchically connected areas
   using naturalistic stimuli in behaving mice.  . '
-url: https://dandiarchive.org/dandiset/000488/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000488/0.230602.2022
+version: 0.230602.2022
 wasGeneratedBy: []
